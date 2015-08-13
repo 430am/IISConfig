@@ -1,2 +1,2 @@
 # IISConfig
-PowerShell script to configure IIS
+PowerShell scripts to configure IIS
